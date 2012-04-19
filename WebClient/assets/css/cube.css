@@ -1,0 +1,55 @@
+.cube {
+	width: 175px;
+	height: 70px;
+	background-color:  #EEEEEE;
+	margin: 10px;
+	text-align: center;
+	  -webkit-border-radius: 7px;
+	     -moz-border-radius: 7px;
+	          border-radius: 7px;
+}
+.cube .product{
+	  -webkit-border-radius: 7px;
+	     -moz-border-radius: 7px;
+	          border-radius: 7px;
+}
+.cube .bid{
+	width: 46%;
+	background-color: green;
+	margin: 2% 1% 2% 2%;
+	float: left;
+	 -webkit-border-radius: 3px;
+	     -moz-border-radius: 3px;
+	          border-radius: 3px;
+
+}
+.cube .ask{
+	width: 48%;
+	background-color: green;
+	margin: 2% 2% 2% 1%;
+	float: right;
+	 -webkit-border-radius: 3px;
+	     -moz-border-radius: 3px;
+	          border-radius: 3px;
+}
+.cube .bid .title{
+	background-color: yellow;
+	margin:0;
+	-webkit-border-top-right-radius:3px;
+	-webkit-border-top-left-radius:3px;
+	-moz-border-radius-topright:3px;
+	-moz-border-radius-topleft:3px;
+	border-top-right-radius:3px;
+	border-top-left-radius:3px;
+	
+}
+.cube .ask .title{
+	background-color: yellow;
+	margin:0;
+	-webkit-border-top-right-radius:3px;
+	-webkit-border-top-left-radius:3px;
+	-moz-border-radius-topright:3px;
+	-moz-border-radius-topleft:3px;
+	border-top-right-radius:3px;
+	border-top-left-radius:3px;
+}
